@@ -66,12 +66,6 @@ body {
     box-flex: 1;
 }
 
-#githubImg img {
-    position: fixed;
-    bottom: 0; right: 0;
-    border: 0;
-}
-
 /* SIDE NAV */
 
 #sidenavBtn {
@@ -137,10 +131,6 @@ body {
 }
 
 @media screen and (max-width: 900px) {
-    #githubImg img {
-        transform: translateX(900px);
-    }
-
     #container {
         margin-right: 0;
     }
