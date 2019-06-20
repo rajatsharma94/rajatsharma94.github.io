@@ -71,7 +71,7 @@ var files = (function () {
         "github.txt": "https://github.com/rajatsharma94/",
         "linkedin.txt": "https://www.linkedin.com/in/rajatssharma/",
         "twitter.txt": "https://twitter.com/r4j47",
-        "what_next.txt": "This is just a minimalistic version of the websiite. Will try to add more things/utilities over here."
+        "what_next.txt": "This is just a minimalistic version of the website. Will try to add more things/utilities over here."
     };
     return {
         getInstance: function (options) {
